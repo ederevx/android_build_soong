@@ -28,6 +28,5 @@ bootstrap_go_package {
         "build_flags_declarations.pb.go",
         "build_flags_src.pb.go",
         "build_flags_out.pb.go",
-        "release_configs_contributions.pb.go",
     ],
 }
